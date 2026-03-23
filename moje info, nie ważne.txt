@@ -1,0 +1,11 @@
+W tabeli budgets jest zła logika unikalności. Obecnie UNIQUE jest ustawiony na (user_id, month_key), przez co użytkownik może mieć tylko jeden rekord budżetu na miesiąc. To nie pasuje do nowego modelu, w którym budżet ma być ustawiany osobno dla każdej kategorii w danym miesiącu.
+
+Popraw strukturę tabeli budgets tak, aby każdy rekord oznaczał limit jednej kategorii w jednym miesiącu.
+
+Wymagania:
+- dodaj category_id do tabeli budgets
+- jeden rekord = jeden limit kategorii dla użytkownika w konkretnym miesiącu
+- ustaw unikalność na (user_id, category_id, month_key) albo równoważnie na user_id, category_id, month, year
+- dostosuj logikę zapisu limitów kategorii
+- dostosuj dashboard, aby odczytywał wiele budżetów kategorii dla jednego miesiąca
+- pokaż pełne pliki po zmianie

@@ -1,0 +1,4 @@
+PySide6
+matplotlib
+python-dotenv
+fpdf2

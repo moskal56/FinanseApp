@@ -1,0 +1,33 @@
+date,amount,category,description
+2026-01-02,1500,Mieszkanie,Czynsz
+2026-01-03,300,Rachunki,Prąd i woda
+2026-01-05,120,Subskrypcje,Netflix
+2026-01-08,450,Jedzenie,Biedronka
+2026-01-10,200,Transport,Paliwo
+2026-01-15,300,Jedzenie,Lidl
+2026-01-18,150,Rozrywka,Kino
+2026-01-22,100,Prezenty,Prezent urodzinowy
+2026-01-25,400,Jedzenie,Kaufland
+2026-01-28,250,Transport,Serwis auta
+
+2026-02-02,1500,Mieszkanie,Czynsz
+2026-02-03,320,Rachunki,Prąd i woda
+2026-02-05,120,Subskrypcje,Netflix
+2026-02-07,500,Jedzenie,Biedronka
+2026-02-11,220,Transport,Paliwo
+2026-02-14,200,Rozrywka,Restauracja
+2026-02-18,350,Jedzenie,Lidl
+2026-02-21,150,Prezenty,Prezent
+2026-02-24,420,Jedzenie,Kaufland
+2026-02-27,300,Transport,Ubezpieczenie
+
+2026-03-02,1500,Mieszkanie,Czynsz
+2026-03-03,310,Rachunki,Prąd i woda
+2026-03-05,120,Subskrypcje,Netflix
+2026-03-06,480,Jedzenie,Biedronka
+2026-03-09,210,Transport,Paliwo
+2026-03-13,250,Rozrywka,Wyjście ze znajomymi
+2026-03-16,370,Jedzenie,Lidl
+2026-03-20,200,Prezenty,Prezent
+2026-03-24,450,Jedzenie,Kaufland
+2026-03-28,320,Transport,Serwis auta
